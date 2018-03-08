@@ -1,0 +1,6 @@
+var app = require('../server/server');
+
+var port = process.env.PORT;
+app.listen(port, function(){
+    console.log('Expense Manager Running On Port: ' + port);
+}
