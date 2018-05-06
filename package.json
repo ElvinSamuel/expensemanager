@@ -2,6 +2,15 @@
   "name": "expense-manager",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Elvin M. Samuel",
+    "email": "ElvinSamuel1@gmail.com",
+    "url": "ElvinSamuel.com"
+  },
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/ElvinSamuel/expensemanager.git"
+  },
   "dependencies": {
     "axios": "^0.18.0",
     "babel-cli": "^6.26.0",
